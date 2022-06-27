@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructureAssignment", "DataStructureAssignment\DataStructureAssignment.csproj", "{4A68A437-CA8E-43C2-B72A-1AA98ABC45CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack", "Stack\Stack.csproj", "{BAF84752-5F79-4842-A28E-3736F7025233}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList", "LinkedList\LinkedList.csproj", "{6AB54923-EB7A-49A8-87F4-56C888CB95C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueUsingLinkedList", "QueueUsingLinkedList\QueueUsingLinkedList.csproj", "{0B4353A7-CB25-45EF-A884-A583A55A19C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriorityQueue", "PriorityQueue\PriorityQueue.csproj", "{42AA2D1B-34E7-4205-8920-928797828B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{82EBAABC-0C20-4B47-8A89-81D2BB49C15C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NChildTree", "NChildTree\NChildTree.csproj", "{52F01DC1-B92E-46A6-BAF6-702194AAD108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A68A437-CA8E-43C2-B72A-1AA98ABC45CF}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{4A68A437-CA8E-43C2-B72A-1AA98ABC45CF}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{4A68A437-CA8E-43C2-B72A-1AA98ABC45CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A68A437-CA8E-43C2-B72A-1AA98ABC45CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF84752-5F79-4842-A28E-3736F7025233}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF84752-5F79-4842-A28E-3736F7025233}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{BAF84752-5F79-4842-A28E-3736F7025233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF84752-5F79-4842-A28E-3736F7025233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB54923-EB7A-49A8-87F4-56C888CB95C3}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB54923-EB7A-49A8-87F4-56C888CB95C3}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{6AB54923-EB7A-49A8-87F4-56C888CB95C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB54923-EB7A-49A8-87F4-56C888CB95C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B4353A7-CB25-45EF-A884-A583A55A19C5}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4353A7-CB25-45EF-A884-A583A55A19C5}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{0B4353A7-CB25-45EF-A884-A583A55A19C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4353A7-CB25-45EF-A884-A583A55A19C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42AA2D1B-34E7-4205-8920-928797828B64}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{42AA2D1B-34E7-4205-8920-928797828B64}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{42AA2D1B-34E7-4205-8920-928797828B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42AA2D1B-34E7-4205-8920-928797828B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82EBAABC-0C20-4B47-8A89-81D2BB49C15C}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{82EBAABC-0C20-4B47-8A89-81D2BB49C15C}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{82EBAABC-0C20-4B47-8A89-81D2BB49C15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82EBAABC-0C20-4B47-8A89-81D2BB49C15C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F01DC1-B92E-46A6-BAF6-702194AAD108}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{52F01DC1-B92E-46A6-BAF6-702194AAD108}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{52F01DC1-B92E-46A6-BAF6-702194AAD108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F01DC1-B92E-46A6-BAF6-702194AAD108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C405ACF2-B591-4668-9669-AFA13419A914}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HashTable\HashTable.csproj" />
+    <ProjectReference Include="..\LinkedList\LinkedList.csproj" />
+    <ProjectReference Include="..\NChildTree\NChildTree.csproj" />
+    <ProjectReference Include="..\PriorityQueue\PriorityQueue.csproj" />
+    <ProjectReference Include="..\QueueUsingLinkedList\QueueUsingLinkedList.csproj" />
+    <ProjectReference Include="..\Stack\Stack.csproj" />
+  </ItemGroup>
+
+</Project>
